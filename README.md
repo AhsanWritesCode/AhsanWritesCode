@@ -5,7 +5,8 @@ I’m a Computer Science (Honours) student at the University of Calgary with a d
 🌱 I’m currently learning Swift and RealityKit while working on an application that simulates vision impairments using the Apple Vision Pro.
 
 📫 How to reach me: 
-### Email: m.ahsan.tariq@outlook.com
+**Email:** m.ahsan.tariq@outlook.com
+**Linkedin:** https://www.linkedin.com/in/tariqahsan/ 
 <!--
 **AhsanWritesCode/AhsanWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
