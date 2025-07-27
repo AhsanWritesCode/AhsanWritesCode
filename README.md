@@ -2,12 +2,6 @@
 
 I’m a Computer Science (Honours) student at the University of Calgary with a deep interest in software development, research, and building meaningful technology.
 
-📫 How to reach me:
-
-**Email:** m.ahsan.tariq@outlook.com 
-
-**Linkedin:** https://www.linkedin.com/in/tariqahsan/ 
-
 <div align="center">
 
 ### 🛠️ Languages and Tools
