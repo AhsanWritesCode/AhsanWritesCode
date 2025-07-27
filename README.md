@@ -11,7 +11,6 @@ I’m a Computer Science (Honours) student at the University of Calgary with a d
 **Linkedin:** https://www.linkedin.com/in/tariqahsan/ 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanWritesCode&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanWritesCode&show_icons=true&theme=tokyonight)
 
 <!--
 **AhsanWritesCode/AhsanWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
