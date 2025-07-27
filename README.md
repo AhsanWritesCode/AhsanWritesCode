@@ -2,8 +2,6 @@
 
 I’m a Computer Science (Honours) student at the University of Calgary with a deep interest in software development, research, and building meaningful technology.
 
-🌱 I’m currently learning Swift and RealityKit while working on an application that simulates vision impairments using the Apple Vision Pro.
-
 📫 How to reach me:
 
 **Email:** m.ahsan.tariq@outlook.com 
